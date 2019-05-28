@@ -1,0 +1,3 @@
+﻿  源.cpp
+e:\vs workspace\openmp_consumerproducer\openmp_consumerproducer\源.cpp(29): warning C4101: “i”: 未引用的局部变量
+  OPENMP_consumerproducer.vcxproj -> E:\vs workspace\OPENMP_consumerproducer\Debug\OPENMP_consumerproducer.exe

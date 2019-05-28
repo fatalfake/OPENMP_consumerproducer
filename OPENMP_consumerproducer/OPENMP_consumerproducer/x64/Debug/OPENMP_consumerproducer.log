@@ -1,0 +1,5 @@
+﻿  源.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+e:\vs workspace\openmp_consumerproducer\openmp_consumerproducer\源.cpp(28): warning C4101: “i”: 未引用的局部变量
+e:\vs workspace\openmp_consumerproducer\openmp_consumerproducer\源.cpp(16): warning C4101: “i”: 未引用的局部变量
+  OPENMP_consumerproducer.vcxproj -> E:\vs workspace\OPENMP_consumerproducer\x64\Debug\OPENMP_consumerproducer.exe
