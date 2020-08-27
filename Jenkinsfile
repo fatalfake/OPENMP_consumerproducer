@@ -9,7 +9,7 @@ pipeline {
         stage('test shell') {
             steps {
                 echo ' Shell'
-		sh label: '', script: '''cd abc
+		sh label: '', script: '''cd /home/autowise/OPENMP_consumerproducer/abc
 bash test.sh'''
             }
         }
